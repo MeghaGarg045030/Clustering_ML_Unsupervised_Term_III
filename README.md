@@ -12,7 +12,7 @@ In this project we collected Bank Customer details and segmented the customers u
 
 <b>REFERENCES</b>
 
-  1. Dataset: Kaggle (https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification)
-  2. Code Reference: medium.com, geekforgeeks, notes
+  1. Dataset: Kaggle.com (https://www.kaggle.com/datasets/hariharanpavan/bank-marketing-dataset-analysis-classification)
+  2. Code Reference: medium.com, geekforgeeks.com, notes
   3. Google: analytixlabs.co.in
   4. Other References: chatgpt
