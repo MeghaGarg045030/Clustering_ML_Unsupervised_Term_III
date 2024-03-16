@@ -6,7 +6,7 @@ In this project we collected Bank Customer details and segmented the customers u
 
 <b>Bank-full.csv:</b> Bank Marketing Dataset (Kaggle)
 
-<b>045030_Clustering_unsupervised-1_Term-III.ipynb: </b>Contains the executable code as well as the Report of the Clustering Analysis.
+<b>045030_Clustering_unsupervised_Term_III.ipynb: </b>Contains the executable code as well as the Report of the Clustering Analysis.
 
 <b>BankMarketing.jpeg: </b>Banner added in ipynb jupyter notebook.
 
